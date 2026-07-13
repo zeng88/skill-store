@@ -8,6 +8,8 @@
 | --- | --- | --- | --- |
 | `ai_media` | Agnes Image Skill | 文生图、图生图、多参考图与本地下载 | [Raw](https://raw.githubusercontent.com/zeng88/skill-store/main/skills/ai_media/agnes-image-skill.zip) / [jsDelivr](https://cdn.jsdelivr.net/gh/zeng88/skill-store@main/skills/ai_media/agnes-image-skill.zip) |
 | `ai_media` | Agnes Video Skill | 文生视频、图生视频、任务恢复与本地下载 | [Raw](https://raw.githubusercontent.com/zeng88/skill-store/main/skills/ai_media/agnes-video-skill.zip) / [jsDelivr](https://cdn.jsdelivr.net/gh/zeng88/skill-store@main/skills/ai_media/agnes-video-skill.zip) |
+| `diagram` | Flowchart Generator | 面向审计和财务场景的内控泳道流程图生成 | [Raw](https://raw.githubusercontent.com/zeng88/skill-store/main/skills/diagram/flowchart-generator.zip) / [jsDelivr](https://cdn.jsdelivr.net/gh/zeng88/skill-store@main/skills/diagram/flowchart-generator.zip) |
+| `diagram` | Process Diagram Generator | 通用业务、技术和项目流程图生成与导出 | [Raw](https://raw.githubusercontent.com/zeng88/skill-store/main/skills/diagram/process-diagram-generator.zip) / [jsDelivr](https://cdn.jsdelivr.net/gh/zeng88/skill-store@main/skills/diagram/process-diagram-generator.zip) |
 
 更多文件见[完整下载清单](download_list.md)。
 
@@ -18,6 +20,7 @@ skill-store/
 ├── README.md
 ├── docs/                    # Skill 配套说明
 │   └── ai_media/
+│   └── diagram/
 ├── scripts/                 # 清单生成等辅助脚本
 ├── skills/                  # 所有独立 Skill 压缩包
 │   └── ai_media/
